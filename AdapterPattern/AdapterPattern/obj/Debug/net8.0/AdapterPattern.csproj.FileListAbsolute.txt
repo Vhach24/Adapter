@@ -1,0 +1,14 @@
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.exe
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.deps.json
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.runtimeconfig.json
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.dll
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.pdb
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.dll
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\refint\AdapterPattern.dll
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.pdb
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.genruntimeconfig.cache
+D:\університет\ООП\№5\AdapterPattern\AdapterPattern\obj\Debug\net8.0\ref\AdapterPattern.dll
